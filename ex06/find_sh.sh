@@ -1,2 +1,2 @@
 #!/bin/sh
-find /././. -iname "*.bin"
+find /././. -iname "*.sh"
